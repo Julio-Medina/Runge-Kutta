@@ -3,7 +3,7 @@
 float f(float t,float y)/*funcion a resolver*/
 {
     float value;
-    value=t*sin(y);
+    value=2t*y+y+y^2*exp(-t^2)
     return value;
 }
 
